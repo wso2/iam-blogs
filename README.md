@@ -20,7 +20,7 @@
 * Ishika Godage
 * [Isura Karunaratne](https://medium.com/@isurakarunaratne)
 * Isuranga Perera
-* Janak Amarasena
+* [Janak Amarasena](https://medium.com/@janakda)
 * Jayanga Kaushalya
 * Jerad Rutnam
 * Kanapriya Kuleswararajan
