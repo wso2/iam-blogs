@@ -1,8 +1,8 @@
 # WSO2 IAM Team - Bloggers
 
 * Abilashini Thiyagarajah
-Achini Jayasena
-Ashen Weerathunga
+* Achini Jayasena
+* Ashen Weerathunga
 Ayesha Dissanayaka
 Buddhima Udaranga
 Darshana Gunawardana 
