@@ -18,7 +18,7 @@
 * Ishara Karunarathna
 * Ishara Naotuna
 * Ishika Godage
-* Isura Karunaratne
+* [Isura Karunaratne](https://medium.com/@isurakarunaratne)
 * Isuranga Perera
 * Janak Amarasena
 * Jayanga Kaushalya
