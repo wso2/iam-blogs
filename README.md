@@ -26,7 +26,7 @@
 * Kanapriya Kuleswararajan
 * Kavindu Dodanduwa
 * Maduranga Siriwardana
-* Malithi Edirisinghe
+* [Malithi Edirisinghe](http://malithiedirisinghe.blogspot.com)
 * Nilasini Thirunavukkarasu
 * Niluka Sripali
 * Omindu Rathnaweera
