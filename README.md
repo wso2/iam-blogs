@@ -11,7 +11,7 @@
 * Dinali Dabarera
 * Farasath Ahamed
 * Gomathy Kumarakuruparan
-* Hasanthi Purnima
+* [Hasanthi Purnima](https://medium.com/@hasanthipurnimadissanayake)
 * Hasini Witharana
 * Inthirakumaaran Tharmakulasingham
 * Ishara Ilangasinghe
