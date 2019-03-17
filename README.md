@@ -23,7 +23,7 @@
 * Janak Amarasena
 * Jayanga Kaushalya
 * Jerad Rutnam
-* Kanapriya
+* Kanapriya Kuleswararajan
 * Kavindu Dodanduwa
 * Maduranga Siriwardana
 * Malithi Edirisinghe
