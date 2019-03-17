@@ -1,1 +1,1 @@
-# wso2-iam-blogs
+# WSO2 IAM Team - Bloggers
