@@ -45,7 +45,7 @@
 * Sominda Gamage
 * Technical Content Team
 * Thanuja Jayasinghe
-* Tharindu Bandara
+* [Tharindu Bandara](https://medium.com/identity-unlocked)
 * Thushanthan Amalanathan
 * Vihanga Liyanage
 * Wijith Bandara
