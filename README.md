@@ -8,7 +8,7 @@
 * Darshana Gunawardana 
 * Denuwanthi De Silva
 * Dilin Dampahalage
-* Dinali Dabarera
+* [Dinali Dabarera](https://medium.com/@gdrdabarera)
 * Farasath Ahamed
 * Gomathy Kumarakuruparan
 * [Hasanthi Purnima](https://medium.com/@hasanthipurnimadissanayake)
