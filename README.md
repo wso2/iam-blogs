@@ -41,7 +41,7 @@
 * Sathya Bandara 
 * Senthalan Kanagalingam
 * Shanika Wickramasinghe
-* Sherene Mahanama
+* [Sherene Mahanama](https://medium.com/@Sher_M/)
 * Sominda Gamage
 * Technical Content Team
 * Thanuja Jayasinghe
