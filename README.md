@@ -9,7 +9,7 @@
 * Denuwanthi De Silva
 * Dilin Dampahalage
 * [Dinali Dabarera](https://medium.com/@gdrdabarera)
-* Farasath Ahamed
+* [Farasath Ahamed](https://medium.com/@farasath)
 * Gomathy Kumarakuruparan
 * [Hasanthi Purnima](https://medium.com/@hasanthipurnimadissanayake)
 * Hasini Witharana
