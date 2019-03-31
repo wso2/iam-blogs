@@ -16,12 +16,12 @@
 * [Inthirakumaaran Tharmakulasingham](https://medium.com/@inthiraj1994)
 * [Ishara Ilangasinghe](https://medium.com/@isharailanga)
 * Ishara Karunarathna
-* Ishara Naotuna
+* [Ishara Naotuna](https://medium.com/@fishfaceishi)
 * Ishika Godage
 * [Isura Karunaratne](https://medium.com/@isurakarunaratne)
 * Isuranga Perera
 * [Janak Amarasena](https://medium.com/@janakda)
-* Jayanga Kaushalya
+* [Jayanga Kaushalya](https://medium.com/@jayanga)
 * [Jerad Rutnam](https://medium.com/@jeradrutnam)
 * [Kanapriya Kuleswararajan](http://kkanapriya.blogspot.com/)
 * [Kavindu Dodanduwa](https://medium.com/@kavindudodanduwa)
@@ -36,7 +36,7 @@
 * [Pulasthi Mahawithana](https://medium.com/@pulasthi7)
 * Ruwan Abeykoon
 * Sachini Wettasinghe
-* Sagara Gunathunga
+* [Sagara Gunathunga](https://medium.com/@sagarag)
 * [Sarubi Thillainathan](https://medium.com/@stsarut)
 * [Sathya Bandara](https://medium.com/@technospace) 
 * [Senthalan Kanagalingam](https://medium.com/@senthalan)
