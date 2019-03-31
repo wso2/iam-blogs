@@ -25,7 +25,7 @@
 * [Jerad Rutnam](https://medium.com/@jeradrutnam)
 * [Kanapriya Kuleswararajan](http://kkanapriya.blogspot.com/)
 * [Kavindu Dodanduwa](https://medium.com/@kavindudodanduwa)
-* Maduranga Siriwardana
+* [Maduranga Siriwardana](https://madurangasblogs.blogspot.com)
 * [Malithi Edirisinghe](http://malithiedirisinghe.blogspot.com)
 * Nilasini Thirunavukkarasu
 * Niluka Sripali
