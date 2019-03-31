@@ -10,7 +10,7 @@
 * Dilin Dampahalage
 * [Dinali Dabarera](https://medium.com/@gdrdabarera)
 * [Farasath Ahamed](https://medium.com/@farasath)
-* Gomathy Kumarakuruparan
+* [Gomathy Kumarakuruparan](https://medium.com/@gomathy)
 * [Hasanthi Purnima](https://medium.com/@hasanthipurnimadissanayake)
 * [Hasini Witharana](https://medium.com/@hasiniwitharana)
 * [Inthirakumaaran Tharmakulasingham](https://medium.com/@inthiraj1994)
