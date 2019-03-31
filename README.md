@@ -1,20 +1,20 @@
 # WSO2 IAM Team - Bloggers
 
-* Abilashini Thiyagarajah
+* [Abilashini Thiyagarajah](https://medium.com/@abilashini)
 * Achini Jayasena
-* Ashen Weerathunga
-* Ayesha Dissanayaka
-* Buddhima Udaranga
-* Darshana Gunawardana 
-* Denuwanthi De Silva
+* [Ashen Weerathunga](https://ashenweerathunga.wordpress.com)
+* [Ayesha Dissanayaka](https://medium.com/@ayshsandu)
+* [Buddhima Udaranga](https://medium.com/@buddhimau)
+* [Darshana Gunawardana](https://darray.wordpress.com/)
+* [Denuwanthi De Silva](https://denuwanthi.wordpress.com/)
 * Dilin Dampahalage
 * [Dinali Dabarera](https://medium.com/@gdrdabarera)
 * [Farasath Ahamed](https://medium.com/@farasath)
 * Gomathy Kumarakuruparan
 * [Hasanthi Purnima](https://medium.com/@hasanthipurnimadissanayake)
-* Hasini Witharana
-* Inthirakumaaran Tharmakulasingham
-* Ishara Ilangasinghe
+* [Hasini Witharana](https://medium.com/@hasiniwitharana)
+* [Inthirakumaaran Tharmakulasingham](https://medium.com/@inthiraj1994)
+* [Ishara Ilangasinghe](https://medium.com/@isharailanga)
 * Ishara Karunarathna
 * Ishara Naotuna
 * Ishika Godage
@@ -22,31 +22,30 @@
 * Isuranga Perera
 * [Janak Amarasena](https://medium.com/@janakda)
 * Jayanga Kaushalya
-* Jerad Rutnam
-* Kanapriya Kuleswararajan
-* Kavindu Dodanduwa
+* [Jerad Rutnam](https://medium.com/@jeradrutnam)
+* [Kanapriya Kuleswararajan](http://kkanapriya.blogspot.com/)
+* [Kavindu Dodanduwa](https://medium.com/@kavindudodanduwa)
 * Maduranga Siriwardana
 * [Malithi Edirisinghe](http://malithiedirisinghe.blogspot.com)
 * Nilasini Thirunavukkarasu
 * Niluka Sripali
-* Omindu Rathnaweera
-* Pamoda Wimalasiri
-* Piraveena Paralogarajah
+* [Omindu Rathnaweera](https://medium.com/@omindu)
+* [Pamoda Wimalasiri](https://medium.com/@pamodaaw)
+* [Piraveena Paralogarajah](https://medium.com/@piraveenaparalogarajah)
 * [Prabath Siriwardena](http://blog.facilelogin.com)
-* Pulasthi Mahawithana
+* [Pulasthi Mahawithana](https://medium.com/@pulasthi7)
 * Ruwan Abeykoon
 * Sachini Wettasinghe
 * Sagara Gunathunga
-* Sarubi Thillainathan
-* Sathya Bandara 
-* Senthalan Kanagalingam
+* [Sarubi Thillainathan](https://medium.com/@stsarut)
+* [Sathya Bandara](https://medium.com/@technospace) 
+* [Senthalan Kanagalingam](https://medium.com/@senthalan)
 * Shanika Wickramasinghe
 * [Sherene Mahanama](https://medium.com/@Sher_M/)
-* Sominda Gamage
-* Technical Content Team
+* [Sominda Gamage](https://medium.com/@somindagamage)
 * Thanuja Jayasinghe
 * [Tharindu Bandara](https://medium.com/identity-unlocked)
 * Thushanthan Amalanathan
-* Vihanga Liyanage
-* Wijith Bandara
-* Yvonne Wickramasinghe
+* [Vihanga Liyanage](https://medium.com/@vihanga_liyanage)
+* [Wijith Bandara](https://medium.com/@wijithbandara)
+* [Yvonne Wickramasinghe](https://medium.com/@yvonne.wicks)
