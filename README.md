@@ -35,7 +35,7 @@
 * [Prabath Siriwardena](http://blog.facilelogin.com)
 * [Pulasthi Mahawithana](https://medium.com/@pulasthi7)
 * Ruwan Abeykoon
-* Sachini Wettasinghe
+* [Sachini Wettasinghe](https://medium.com/@swettasinghe23)
 * [Sagara Gunathunga](https://medium.com/@sagarag)
 * [Sarubi Thillainathan](https://medium.com/@stsarut)
 * [Sathya Bandara](https://medium.com/@technospace) 
