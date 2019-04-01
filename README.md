@@ -2,7 +2,7 @@
 
 * [Abilashini Thiyagarajah](https://medium.com/@abilashini)
 * Achini Jayasena
-* [Ashen Weerathunga](https://ashenweerathunga.wordpress.com)
+* [Ashen Weerathunga](https://medium.com/@ashenweerathunga)
 * [Ayesha Dissanayaka](https://medium.com/@ayshsandu)
 * [Buddhima Udaranga](https://medium.com/@buddhimau)
 * [Darshana Gunawardana](https://darray.wordpress.com/)
