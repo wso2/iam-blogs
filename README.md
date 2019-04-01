@@ -27,7 +27,7 @@
 * [Kavindu Dodanduwa](https://medium.com/@kavindudodanduwa)
 * [Maduranga Siriwardana](https://madurangasblogs.blogspot.com)
 * [Malithi Edirisinghe](http://malithiedirisinghe.blogspot.com)
-* Nilasini Thirunavukkarasu
+* [Nilasini Thirunavukkarasu](https://medium.com/@nilasini)
 * Niluka Sripali
 * [Omindu Rathnaweera](https://medium.com/@omindu)
 * [Pamoda Wimalasiri](https://medium.com/@pamodaaw)
