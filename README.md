@@ -46,6 +46,6 @@
 * Thanuja Jayasinghe
 * [Tharindu Bandara](https://medium.com/identity-unlocked)
 * Thushanthan Amalanathan
-* [Vihanga Liyanage](https://medium.com/@vihanga_liyanage)
+* [Vihanga Liyanage](https://everything1know.wordpress.com)
 * [Wijith Bandara](https://medium.com/@wijithbandara)
 * [Yvonne Wickramasinghe](https://medium.com/@yvonne.wicks)
