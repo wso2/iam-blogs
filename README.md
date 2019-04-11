@@ -17,7 +17,7 @@
 * [Ishara Ilangasinghe](https://medium.com/@isharailanga)
 * Ishara Karunarathna
 * [Ishara Naotuna](https://medium.com/@fishfaceishi)
-* Ishika Godage
+* [Ishika Godage](https://medium.com/@ishikagodage)
 * [Isura Karunaratne](https://medium.com/@isurakarunaratne)
 * Isuranga Perera
 * [Janak Amarasena](https://medium.com/@janakda)
