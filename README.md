@@ -7,7 +7,7 @@
 * [Buddhima Udaranga](https://medium.com/@buddhimau)
 * [Darshana Gunawardana](https://darray.wordpress.com/)
 * [Denuwanthi De Silva](https://denuwanthi.wordpress.com/)
-* Dilin Dampahalage
+* [Dilin Dampahalage](https://medium.com/@dilinlalindradampahalage)
 * [Dinali Dabarera](https://medium.com/@gdrdabarera)
 * [Farasath Ahamed](https://medium.com/@farasath)
 * [Gomathy Kumarakuruparan](https://medium.com/@gomathy)
