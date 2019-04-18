@@ -15,7 +15,7 @@
 * [Hasini Witharana](https://medium.com/@hasiniwitharana)
 * [Inthirakumaaran Tharmakulasingham](https://medium.com/@inthiraj1994)
 * [Ishara Ilangasinghe](https://medium.com/@isharailanga)
-* Ishara Karunarathna
+* [Ishara Karunarathna](https://medium.com/@isharaaruna)
 * [Ishara Naotuna](https://medium.com/@fishfaceishi)
 * [Ishika Godage](https://medium.com/@ishikagodage)
 * [Isura Karunaratne](https://medium.com/@isurakarunaratne)
