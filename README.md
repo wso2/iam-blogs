@@ -8,7 +8,7 @@
 * [Darshana Gunawardana](https://darray.wordpress.com/)
 * [Denuwanthi De Silva](https://denuwanthi.wordpress.com/)
 * [Dilin Dampahalage](https://medium.com/@dilinlalindradampahalage)
-* [Dinali Dabarera](https://medium.com/@gdrdabarera)
+* [Dinali Dabarera](https://medium.com/@gdrdabarera) ~ Best Blogger Award (April 2019)
 * [Farasath Ahamed](https://medium.com/@farasath)
 * [Gomathy Kumarakuruparan](https://medium.com/@gomathy)
 * [Hasanthi Purnima](https://medium.com/@hasanthipurnimadissanayake)
