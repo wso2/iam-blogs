@@ -1,4 +1,4 @@
-# WSO2 IAM Team - Bloggers
+# WSO2 Identity Server - Bloggers
 
 * [Abilashini Thiyagarajah](https://medium.com/@abilashini)
 * Achini Jayasena
