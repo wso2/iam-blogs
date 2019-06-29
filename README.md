@@ -5,6 +5,7 @@
 * [Ashen Weerathunga](https://medium.com/@ashenweerathunga)
 * [Ayesha Dissanayaka](https://medium.com/@ayshsandu)
 * [Buddhima Udaranga](https://medium.com/@buddhimau)
+* [Chanaka Fernando](https://medium.com/@chanakaudaya)
 * [Darshana Gunawardana](https://darray.wordpress.com/)
 * [Denuwanthi De Silva](https://denuwanthi.wordpress.com/)
 * [Dilin Dampahalage](https://medium.com/@dilinlalindradampahalage)
