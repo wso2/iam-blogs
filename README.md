@@ -29,7 +29,7 @@
 * [Maduranga Siriwardana](https://medium.com/@maduranga.siriwardena)
 * [Malithi Edirisinghe](http://malithiedirisinghe.blogspot.com)
 * [Nilasini Thirunavukkarasu](https://medium.com/@nilasini)
-* Niluka Sripali
+* [Niluka Sripali](https://medium.com/@niluka)
 * [Omindu Rathnaweera](https://medium.com/@omindu)
 * [Pamoda Wimalasiri](https://medium.com/@pamodaaw)
 * [Piraveena Paralogarajah](https://medium.com/@piraveenaparalogarajah)
