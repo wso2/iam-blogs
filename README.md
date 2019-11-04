@@ -49,6 +49,6 @@
 * [Tharindu Bandara](https://medium.com/identity-unlocked)
 * Thushanthan Amalanathan
 * [Vihanga Liyanage](https://everything1know.wordpress.com)
-* [Vivek Vinushanth](https://medium.com/@vivekc.16) ~ Blogger of the Month (July 2019 / oct 2019)
+* [Vivek Vinushanth](https://medium.com/@vivekc.16) ~ Blogger of the Month (July 2019 / Oct 2019)
 * [Wijith Bandara](https://medium.com/@wijithbandara)
 * [Yvonne Wickramasinghe](https://medium.com/@yvonne.wicks)
