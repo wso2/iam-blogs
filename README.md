@@ -16,7 +16,7 @@
 * [Hasini Witharana](https://medium.com/@hasiniwitharana)
 * [Inthirakumaaran Tharmakulasingham](https://medium.com/@inthiraj1994) ~ Blogger of the Month (June 2019)
 * [Ishara Ilangasinghe](https://medium.com/@isharailanga)
-* [Ishara Karunarathna](https://medium.com/@isharaaruna)
+* [Ishara Karunarathna](https://medium.com/@isharaaruna) ~ Blogger of the Month (Sept 2019)
 * [Ishara Naotuna](https://medium.com/@fishfaceishi)
 * [Ishika Godage](https://medium.com/@ishikagodage)
 * [Isura Karunaratne](https://medium.com/@isurakarunaratne) ~ Blogger of the Month (May 2019)
@@ -49,6 +49,6 @@
 * [Tharindu Bandara](https://medium.com/identity-unlocked)
 * Thushanthan Amalanathan
 * [Vihanga Liyanage](https://everything1know.wordpress.com)
-* [Vivek Vinushanth](https://medium.com/@vivekc.16) ~ Blogger of the Month (July 2019)
+* [Vivek Vinushanth](https://medium.com/@vivekc.16) ~ Blogger of the Month (July 2019 / Oct 2019)
 * [Wijith Bandara](https://medium.com/@wijithbandara)
 * [Yvonne Wickramasinghe](https://medium.com/@yvonne.wicks)
