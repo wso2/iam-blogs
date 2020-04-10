@@ -48,6 +48,7 @@
 * [Sominda Gamage](https://medium.com/@somindagamage)
 * Thanuja Jayasinghe
 * [Tharindu Bandara](https://medium.com/identity-unlocked)
+* [Thumilan Mikunthan](https://medium.com/@thumilan)
 * Thushanthan Amalanathan
 * [Vihanga Liyanage](https://everything1know.wordpress.com)
 * [Vivek Vinushanth](https://medium.com/@vivekc.16) ~ Blogger of the Month (July 2019 / Oct 2019)
