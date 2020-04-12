@@ -39,6 +39,7 @@
 * [Ruwan Abeykoon](https://medium.com/@ruwanta)
 * [Sachini Wettasinghe](https://medium.com/@swettasinghe23)
 * [Sagara Gunathunga](https://medium.com/@sagarag)
+* [Sajith Ekanayaka](https://medium.com/@sajithekanayaka)
 * [Sarubi Thillainathan](https://medium.com/@stsarut)
 * [Sathya Bandara](https://medium.com/@technospace) 
 * [Senthalan Kanagalingam](https://medium.com/@senthalan)
