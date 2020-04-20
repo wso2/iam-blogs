@@ -4,6 +4,7 @@
 * Achini Jayasena
 * [Anuradha Karunarathna](https://medium.com/@anuradha.15)
 * [Ashen Weerathunga](https://medium.com/@ashenweerathunga)
+* [Brion Silva](https://medium.com/@brionmario)
 * [Ayesha Dissanayaka](https://medium.com/@ayshsandu)
 * [Buddhima Udaranga](https://medium.com/@buddhimau)
 * [Chanaka Fernando](https://medium.com/@chanakaudaya)
