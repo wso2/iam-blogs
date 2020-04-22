@@ -14,6 +14,7 @@
 * [Dilin Dampahalage](https://medium.com/@dilinlalindradampahalage)
 * [Dinali Dabarera](https://medium.com/@gdrdabarera) ~ Blogger of the Month (April 2019)
 * [Farasath Ahamed](https://medium.com/@farasath)
+* [Gangani Chamika](https://medium.com/@ganganichamika)
 * [Gomathy Kumarakuruparan](https://medium.com/@gomathy)
 * [Hasanthi Purnima](https://medium.com/@hasanthipurnimadissanayake)
 * [Hasini Witharana](https://medium.com/@hasiniwitharana)
