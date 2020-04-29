@@ -39,6 +39,7 @@
 * [Piraveena Paralogarajah](https://medium.com/@piraveenaparalogarajah)
 * [Prabath Siriwardena](http://blog.facilelogin.com)
 * [Pulasthi Mahawithana](https://medium.com/@pulasthi7)
+* [Pushpalanka Jayawardhana](https://medium.com/@Pushpalanka)
 * [Ruwan Abeykoon](https://medium.com/@ruwanta)
 * [Sachini Wettasinghe](https://medium.com/@swettasinghe23)
 * [Sagara Gunathunga](https://medium.com/@sagarag)
