@@ -47,6 +47,7 @@
 * [Sahan Gunathilaka](https://medium.com/@sahangunathilaka)
 * [Sajith Ekanayaka](https://medium.com/@sajithekanayaka)
 * [Sarubi Thillainathan](https://medium.com/@stsarut)
+* [Sathiyakugan Balakrishnan](https://medium.com/@sathiyakugan) 
 * [Sathya Bandara](https://medium.com/@technospace) 
 * [Senthalan Kanagalingam](https://medium.com/@senthalan)
 * Shanika Wickramasinghe
