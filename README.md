@@ -13,6 +13,7 @@
 * [Denuwanthi De Silva](https://denuwanthi.wordpress.com/)
 * [Dilin Dampahalage](https://medium.com/@dilinlalindradampahalage)
 * [Dinali Dabarera](https://medium.com/@gdrdabarera) ~ Blogger of the Month (April 2019)
+* [Dinika Senarath](https://medium.com/@dinika.15)
 * [Farasath Ahamed](https://medium.com/@farasath)
 * [Gangani Chamika](https://medium.com/@ganganichamika)
 * [Gomathy Kumarakuruparan](https://medium.com/@gomathy)
