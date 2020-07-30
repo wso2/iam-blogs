@@ -52,6 +52,7 @@
 * [Sathya Bandara](https://medium.com/@technospace) 
 * [Senthalan Kanagalingam](https://medium.com/@senthalan)
 * Shanika Wickramasinghe
+* [Shan Jayathilaka](https://medium.com/@shanchathusanda)
 * [Shazni Nazeer](https://medium.com/@mshazninazeer)
 * [Sherene Mahanama](https://medium.com/@Sher_M/)
 * [Sominda Gamage](https://medium.com/@somindagamage)
