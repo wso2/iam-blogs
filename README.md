@@ -58,6 +58,7 @@
 * [Shazni Nazeer](https://medium.com/@mshazninazeer)
 * [Sherene Mahanama](https://medium.com/@Sher_M/)
 * [Sominda Gamage](https://medium.com/@somindagamage)
+* [Suresh Peiris](https://medium.com/@TSMPeiris)
 * Thanuja Jayasinghe
 * [Tharindu Bandara](https://medium.com/identity-unlocked)
 * [Thumilan Mikunthan](https://medium.com/@thumilan)
