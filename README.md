@@ -60,6 +60,7 @@
 * [Sherene Mahanama](https://medium.com/@Sher_M/)
 * [Sominda Gamage](https://medium.com/@somindagamage)
 * [Suresh Peiris](https://medium.com/@TSMPeiris)
+* [Thamidu Muthukumarana](https://thamidurm.medium.com)
 * Thanuja Jayasinghe
 * [Tharindu Bandara](https://medium.com/identity-unlocked)
 * [Thenusan Santhirakumar](https://medium.com/@sthenusan)
