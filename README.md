@@ -62,6 +62,7 @@
 * [Suresh Peiris](https://medium.com/@TSMPeiris)
 * Thanuja Jayasinghe
 * [Tharindu Bandara](https://medium.com/identity-unlocked)
+* [Thenusan Santhirakumar](https://medium.com/@sthenusan)
 * [Thumilan Mikunthan](https://medium.com/@thumilan)
 * Thushanthan Amalanathan
 * [Vihanga Liyanage](https://everything1know.wordpress.com)
