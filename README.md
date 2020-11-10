@@ -2,6 +2,7 @@
 
 * [Abilashini Thiyagarajah](https://medium.com/@abilashini)
 * Achini Jayasena
+* [Anjana Samindra Perera](https://anjanasamindraperera.medium.com)
 * [Anuradha Karunarathna](https://medium.com/@anuradha.15)
 * [Ashen Weerathunga](https://medium.com/@ashenweerathunga)
 * [Brion Silva](https://medium.com/@brionmario)
@@ -70,3 +71,4 @@
 * [Vivek Vinushanth](https://medium.com/@vivekc.16) ~ Blogger of the Month (July 2019 / Oct 2019)
 * [Wijith Bandara](https://medium.com/@wijithbandara)
 * [Yvonne Wickramasinghe](https://medium.com/@yvonne.wicks)
+* [Yasas Ramanayake](https://yasasramanayaka.medium.com/)
