@@ -2,6 +2,7 @@
 
 * [Abilashini Thiyagarajah](https://medium.com/@abilashini)
 * Achini Jayasena
+* [Anjana Samindra Perera](https://anjanasamindraperera.medium.com)
 * [Anuradha Karunarathna](https://medium.com/@anuradha.15)
 * [Ashen Weerathunga](https://medium.com/@ashenweerathunga)
 * [Brion Silva](https://medium.com/@brionmario)
@@ -60,8 +61,10 @@
 * [Sherene Mahanama](https://medium.com/@Sher_M/)
 * [Sominda Gamage](https://medium.com/@somindagamage)
 * [Suresh Peiris](https://medium.com/@TSMPeiris)
+* [Thamidu Muthukumarana](https://thamidurm.medium.com)
 * Thanuja Jayasinghe
 * [Tharindu Bandara](https://medium.com/identity-unlocked)
+* [Thenusan Santhirakumar](https://medium.com/@sthenusan)
 * [Thumilan Mikunthan](https://medium.com/@thumilan)
 * Thushanthan Amalanathan
 * [Vihanga Liyanage](https://everything1know.wordpress.com)
