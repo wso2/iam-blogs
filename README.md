@@ -3,7 +3,7 @@
 * [Abilashini Thiyagarajah](https://medium.com/@abilashini)
 * Achini Jayasena
 * [Anjana Samindra Perera](https://anjanasamindraperera.medium.com)
-* [Anuradha Karunarathna](https://medium.com/@anuradha.15)
+* [Anuradha Karunarathna](https://anuradha-15.medium.com/)
 * [Ashen Weerathunga](https://medium.com/@ashenweerathunga)
 * [Brion Silva](https://medium.com/@brionmario)
 * [Ayesha Dissanayaka](https://medium.com/@ayshsandu)
