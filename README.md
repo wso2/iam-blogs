@@ -30,6 +30,7 @@
 * [Isura Karunaratne](https://medium.com/@isurakarunaratne) ~ Blogger of the Month (May 2019)
 * Isuranga Perera
 * [Janak Amarasena](https://medium.com/@janakda)
+* [Janith Ganepola](https://janithgan.medium.com)
 * [Jayanga Kaushalya](https://medium.com/@jayanga)
 * [Jerad Rutnam](https://medium.com/@jeradrutnam)
 * [Kanapriya Kuleswararajan](http://kkanapriya.blogspot.com/)
