@@ -4,7 +4,7 @@
 * Achini Jayasena
 * [Anjana Samindra Perera](https://anjanasamindraperera.medium.com)
 * [Anuradha Karunarathna](https://anuradha-15.medium.com/)
-* [Ashen Weerathunga](https://medium.com/@ashenweerathunga)
+* [Ashen Weerathunga](https://ashenweerathunga.medium.com)
 * [Brion Silva](https://medium.com/@brionmario)
 * [Ayesha Dissanayaka](https://medium.com/@ayshsandu)
 * [Buddhima Udaranga](https://medium.com/@buddhimau)
