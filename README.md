@@ -10,6 +10,7 @@
 * [Buddhima Udaranga](https://medium.com/@buddhimau)
 * [Chamath Samarawickrama](https://medium.com/@htamahc)
 * [Chanaka Fernando](https://medium.com/@chanakaudaya)
+* [Chanika Ruchini](https://chanikaruchini-16.medium.com)
 * [Darshana Gunawardana](https://darray.wordpress.com/)
 * [Denuwanthi De Silva](https://denuwanthi.wordpress.com/)
 * [Dewni Weeraman](https://dewni-matheesha.medium.com/)
