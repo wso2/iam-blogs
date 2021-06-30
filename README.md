@@ -44,6 +44,7 @@
 * [Malithi Edirisinghe](http://malithiedirisinghe.blogspot.com)
 * [Mevan Karunanayake](https://medium.com/@mevan.karu)
 * [Mifraz Murthaja](https://mifrazmurthaja.medium.com)
+* [Minoli de Silva](https://minoli-desilva.medium.com)
 * [Nilasini Thirunavukkarasu](https://medium.com/@nilasini)
 * [Niluka Sripali](https://medium.com/@niluka)
 * [Nuwanga_Herath](https://nuwangaherath.medium.com/)
