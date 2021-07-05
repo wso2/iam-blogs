@@ -35,6 +35,7 @@
 * [Janith Ganepola](https://janithgan.medium.com)
 * [Jayanga Kaushalya](https://medium.com/@jayanga)
 * [Jerad Rutnam](https://medium.com/@jeradrutnam)
+* [Jihan Jeeth](https://jihanjeeth.medium.com)
 * [Johann Nallathamby](https://medium.com/@johann-nallathamby)
 * [Kanapriya Kuleswararajan](http://kkanapriya.blogspot.com/)
 * [Kavindu Dodanduwa](https://medium.com/@kavindudodanduwa)
