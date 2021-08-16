@@ -72,6 +72,7 @@
 * [Sherene Mahanama](https://medium.com/@Sher_M/)
 * [Sominda Gamage](https://medium.com/@somindagamage)
 * [Suresh Peiris](https://medium.com/@TSMPeiris)
+* [Thamindu Jayawickrama](https://thamindudilshan.medium.com/)
 * [Thamidu Muthukumarana](https://thamidurm.medium.com)
 * [Thamindu Aluthwala](https://thamindur.medium.com/)
 * Thanuja Jayasinghe
