@@ -74,6 +74,7 @@
 * [Suresh Peiris](https://medium.com/@TSMPeiris)
 * [Thamidu Muthukumarana](https://thamidurm.medium.com)
 * [Thamindu Aluthwala](https://thamindur.medium.com/)
+* [Thamindu Jayawickrama](https://thamindudilshan.medium.com/)
 * Thanuja Jayasinghe
 * [Tharindu Bandara](https://medium.com/identity-unlocked)
 * [Thenusan Santhirakumar](https://medium.com/@sthenusan)
