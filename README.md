@@ -12,6 +12,7 @@
 * [Chanaka Fernando](https://medium.com/@chanakaudaya)
 * [Chanika Ruchini](https://chanikaruchini-16.medium.com)
 * [Darshana Gunawardana](https://darray.wordpress.com/)
+* [Dehami Koswatte](https://medium.com/@deshankoswatte)
 * [Denuwanthi De Silva](https://denuwanthi.wordpress.com/)
 * [Dewni Weeraman](https://dewni-matheesha.medium.com/)
 * [Dilin Dampahalage](https://medium.com/@dilinlalindradampahalage)
