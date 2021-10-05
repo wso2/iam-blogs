@@ -11,6 +11,7 @@
 * [Chamath Samarawickrama](https://medium.com/@htamahc)
 * [Chanaka Fernando](https://medium.com/@chanakaudaya)
 * [Chanika Ruchini](https://chanikaruchini-16.medium.com)
+* [Charith Rajitha](https://medium.com/@rajithacharith)
 * [Darshana Gunawardana](https://darray.wordpress.com/)
 * [Dehami Koswatte](https://medium.com/@deshankoswatte)
 * [Denuwanthi De Silva](https://denuwanthi.wordpress.com/)
