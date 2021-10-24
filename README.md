@@ -73,6 +73,7 @@
 * [Shan Jayathilaka](https://medium.com/@shanchathusanda)
 * [Shazni Nazeer](https://medium.com/@mshazninazeer)
 * [Sherene Mahanama](https://medium.com/@Sher_M/)
+* [Sivanoly Nesaratnam](https://nsivanoly.medium.com/)
 * [Sominda Gamage](https://medium.com/@somindagamage)
 * [Suresh Peiris](https://medium.com/@TSMPeiris)
 * [Thamidu Muthukumarana](https://thamidurm.medium.com)
