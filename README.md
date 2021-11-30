@@ -25,6 +25,7 @@
 * [Hasanthi Purnima](https://medium.com/@hasanthipurnimadissanayake)
 * [Hasini Witharana](https://medium.com/@hasiniwitharana)
 * [Himashi Rathnayake](https://himashirathnayake.medium.com/)
+* [Imalsha Gunasekara](https://imalsha-sg.medium.com/)
 * [Inthirakumaaran Tharmakulasingham](https://medium.com/@inthiraj1994) ~ Blogger of the Month (June 2019)
 * [Isanka Rajapaksha](https://is-rajapaksha.medium.com)
 * [Ishara Ilangasinghe](https://medium.com/@isharailanga)
