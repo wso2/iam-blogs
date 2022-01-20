@@ -73,6 +73,7 @@
 * Shanika Wickramasinghe
 * [Shan Jayathilaka](https://medium.com/@shanchathusanda)
 * [Shazni Nazeer](https://medium.com/@mshazninazeer)
+* [Shalitha Pathirange](https://medium.com/@Shaaali)
 * [Sherene Mahanama](https://medium.com/@Sher_M/)
 * [Sivanoly Nesaratnam](https://nsivanoly.medium.com/)
 * [Sominda Gamage](https://medium.com/@somindagamage)
