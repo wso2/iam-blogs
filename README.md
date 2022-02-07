@@ -91,6 +91,7 @@
 * [Vivek Vinushanth](https://medium.com/@vivekc.16) ~ Blogger of the Month (July 2019 / Oct 2019)
 * [Wijith Bandara](https://medium.com/@wijithbandara)
 * [Yasara Yasawardhana](https://yasarayasawardhana.medium.com/)
+* [Yathindra Kodithuwakku](https://yathindra.medium.com/)
 * [Yvonne Wickramasinghe](https://medium.com/@yvonne.wicks)
 * [Yasas Ramanayake](https://yasasramanayaka.medium.com/)
 * [Chathuranga Priyadarshana](https://chathurangapriyadarshana.medium.com/)
