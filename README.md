@@ -5,6 +5,7 @@
 * [Anjana Samindra Perera](https://anjanasamindraperera.medium.com)
 * [Anuradha Karunarathna](https://anuradha-15.medium.com/)
 * [Ashen Weerathunga](https://ashenweerathunga.medium.com)
+* [Bojitha Piyathilake](https://medium.com/@bojithapiyathilake)
 * [Brion Silva](https://medium.com/@brionmario)
 * [Ayesha Dissanayaka](https://medium.com/@ayshsandu)
 * [Buddhima Udaranga](https://medium.com/@buddhimau)
