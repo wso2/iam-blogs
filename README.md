@@ -14,6 +14,7 @@
 * [Chanika Ruchini](https://chanikaruchini-16.medium.com)
 * [Charith Rajitha](https://medium.com/@rajithacharith)
 * [Darshana Gunawardana](https://darray.wordpress.com/)
+* [Dasuni Geeganage](https://medium.com/@dasunin30)
 * [Dehami Koswatte](https://medium.com/@deshankoswatte)
 * [Denuwanthi De Silva](https://denuwanthi.wordpress.com/)
 * [Dewni Weeraman](https://dewni-matheesha.medium.com/)
