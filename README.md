@@ -68,6 +68,7 @@
 * [Rashmini Naranpanawa](https://rashmini.medium.com/)
 * [Ruchira Sahabandu](https://medium.com/@ruchira.sahabandu)
 * [Ruwan Abeykoon](https://medium.com/@ruwanta)
+* [Sachin Mamoru](https://sachinmamoru.medium.com/)
 * [Sachini Wettasinghe](https://medium.com/@swettasinghe23)
 * [Sagara Gunathunga](https://medium.com/@sagarag)
 * [Sahan Gunathilaka](https://medium.com/@sahangunathilaka)
