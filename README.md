@@ -40,6 +40,7 @@
 * [Janak Amarasena](https://medium.com/@janakda)
 * [Janith Ganepola](https://janithgan.medium.com)
 * [Jayanga Kaushalya](https://medium.com/@jayanga)
+* [Jayashakthi Perera](https://medium.com/@jayashakthiperera)
 * [Jerad Rutnam](https://medium.com/@jeradrutnam)
 * [Jihan Jeeth](https://jihanjeeth.medium.com)
 * [Johann Nallathamby](https://medium.com/@johann-nallathamby)
