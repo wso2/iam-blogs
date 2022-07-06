@@ -78,6 +78,7 @@
 * [Sarubi Thillainathan](https://medium.com/@stsarut)
 * [Sathiyakugan Balakrishnan](https://medium.com/@sathiyakugan) 
 * [Sathya Bandara](https://medium.com/@technospace) 
+* [Savindi Waduge](https://medium.com/@savindiwaduge7) 
 * [Senthalan Kanagalingam](https://medium.com/@senthalan)
 * Shanika Wickramasinghe
 * [Shan Jayathilaka](https://medium.com/@shanchathusanda)
