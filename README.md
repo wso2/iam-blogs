@@ -87,6 +87,7 @@
 * [Sherene Mahanama](https://medium.com/@Sher_M/)
 * [Sivanoly Nesaratnam](https://nsivanoly.medium.com/)
 * [Sominda Gamage](https://medium.com/@somindagamage)
+* [Sujan Sanjula](https://medium.com/@sujan-sanjula)
 * [Suresh Peiris](https://medium.com/@TSMPeiris)
 * [Thamidu Muthukumarana](https://thamidurm.medium.com)
 * [Thamindu Aluthwala](https://thamindur.medium.com/)
