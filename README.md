@@ -2,6 +2,7 @@
 
 * [Abilashini Thiyagarajah](https://medium.com/@abilashini)
 * Achini Jayasena
+* [Achintha Isuru](https://achinthaisuru444.medium.com/)
 * [Anjana Samindra Perera](https://anjanasamindraperera.medium.com)
 * [Anuradha Karunarathna](https://anuradha-15.medium.com/)
 * [Ashen Weerathunga](https://ashenweerathunga.medium.com)
