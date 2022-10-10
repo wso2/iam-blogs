@@ -2,6 +2,7 @@
 
 * [Abilashini Thiyagarajah](https://medium.com/@abilashini)
 * Achini Jayasena
+* [Achintha Isuru](https://achinthaisuru444.medium.com/)
 * [Anjana Samindra Perera](https://anjanasamindraperera.medium.com)
 * [Anuradha Karunarathna](https://anuradha-15.medium.com/)
 * [Ashen Weerathunga](https://ashenweerathunga.medium.com)
@@ -40,6 +41,7 @@
 * [Janak Amarasena](https://medium.com/@janakda)
 * [Janith Ganepola](https://janithgan.medium.com)
 * [Jayanga Kaushalya](https://medium.com/@jayanga)
+* [Jayashakthi Perera](https://medium.com/@jayashakthiperera)
 * [Jerad Rutnam](https://medium.com/@jeradrutnam)
 * [Jihan Jeeth](https://jihanjeeth.medium.com)
 * [Johann Nallathamby](https://medium.com/@johann-nallathamby)
@@ -48,6 +50,7 @@
 * [Kushan Bhareti](https://medium.com/@kushanbhareti)
 * [Kayathiri Mahendrakumaran](https://kayathiri.medium.com/)
 * [Lakshan Banneheke](https://medium.com/@lakshan-banneheke)
+* [Leonardo Lopez](https://medium.com/@leonardor_2734)
 * [M Ashkar Haris](https://mashkarharis.medium.com/)
 * [Maduranga Siriwardana](https://medium.com/@maduranga.siriwardena)
 * [Malithi Edirisinghe](http://malithiedirisinghe.blogspot.com)
@@ -74,9 +77,11 @@
 * [Sahan Gunathilaka](https://medium.com/@sahangunathilaka)
 * [Sajith Ekanayaka](https://medium.com/@sajithekanayaka)
 * [Sanduni Nagahage](https://medium.com/@sandunin )
+* [Sandushi Dileka](https://medium.com/@sandushidileka2)
 * [Sarubi Thillainathan](https://medium.com/@stsarut)
 * [Sathiyakugan Balakrishnan](https://medium.com/@sathiyakugan) 
 * [Sathya Bandara](https://medium.com/@technospace) 
+* [Savindi Waduge](https://medium.com/@savindiwaduge7) 
 * [Senthalan Kanagalingam](https://medium.com/@senthalan)
 * Shanika Wickramasinghe
 * [Shan Jayathilaka](https://medium.com/@shanchathusanda)
@@ -85,6 +90,7 @@
 * [Sherene Mahanama](https://medium.com/@Sher_M/)
 * [Sivanoly Nesaratnam](https://nsivanoly.medium.com/)
 * [Sominda Gamage](https://medium.com/@somindagamage)
+* [Sujan Sanjula](https://medium.com/@sujan-sanjula)
 * [Suresh Peiris](https://medium.com/@TSMPeiris)
 * [Thamidu Muthukumarana](https://thamidurm.medium.com)
 * [Thamindu Aluthwala](https://thamindur.medium.com/)
@@ -105,4 +111,5 @@
 * [Chathuranga Priyadarshana](https://chathurangapriyadarshana.medium.com/)
 * [Dimuthu kasun](https://dimuthuk.medium.com/)
 * [Yasin](https://www.yasint.dev/)
+* [Yoshani Ranaweera](https://yoshani-malinka.medium.com/)
 
