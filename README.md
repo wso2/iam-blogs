@@ -50,6 +50,7 @@
 * [Kushan Bhareti](https://medium.com/@kushanbhareti)
 * [Kayathiri Mahendrakumaran](https://kayathiri.medium.com/)
 * [Lakshan Banneheke](https://medium.com/@lakshan-banneheke)
+* [Leonardo Lopez](https://medium.com/@leonardor_2734)
 * [M Ashkar Haris](https://mashkarharis.medium.com/)
 * [Maduranga Siriwardana](https://medium.com/@maduranga.siriwardena)
 * [Malithi Edirisinghe](http://malithiedirisinghe.blogspot.com)
@@ -62,6 +63,7 @@
 * [Nimasha Bandara](https://medium.com/@NimashaBandara)
 * [Omal Wijegunawardana](https://medium.com/@omalwijegunawardana)
 * [Omindu Rathnaweera](https://medium.com/@omindu)
+* [Pabasara Mahindapala](https://medium.com/@pabasaramahindapala)
 * [Pamoda Wimalasiri](https://medium.com/@pamodaaw)
 * [Piraveena Paralogarajah](https://medium.com/@piraveenaparalogarajah)
 * [Prabath Siriwardena](http://blog.facilelogin.com)
@@ -110,4 +112,5 @@
 * [Chathuranga Priyadarshana](https://chathurangapriyadarshana.medium.com/)
 * [Dimuthu kasun](https://dimuthuk.medium.com/)
 * [Yasin](https://www.yasint.dev/)
+* [Yoshani Ranaweera](https://yoshani-malinka.medium.com/)
 
