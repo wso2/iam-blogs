@@ -53,6 +53,7 @@
 * [Lakshan Banneheke](https://medium.com/@lakshan-banneheke)
 * [Lashini Jayasekara](https://medium.com/@lashinisharikaj)
 * [Leonardo Lopez](https://medium.com/@leonardor_2734)
+* [Lochana Edirisinghe](https://edirisinghelochana5.medium.com/)
 * [M Ashkar Haris](https://mashkarharis.medium.com/)
 * [Maduranga Siriwardana](https://medium.com/@maduranga.siriwardena)
 * [Malithi Edirisinghe](http://malithiedirisinghe.blogspot.com)
