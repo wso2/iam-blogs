@@ -117,4 +117,4 @@
 * [Yasin](https://www.yasint.dev/)
 * [Yoshani Ranaweera](https://yoshani-malinka.medium.com/)
 * [Amanda Ariyaratne](https://amanda-ariyaratne.medium.com/)
-
+* [Yogya Gamage](https://medium.com/@yogya.gamage)
