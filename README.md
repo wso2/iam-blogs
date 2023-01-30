@@ -57,6 +57,7 @@
 * [M Ashkar Haris](https://mashkarharis.medium.com/)
 * [Maduranga Siriwardana](https://medium.com/@maduranga.siriwardena)
 * [Malithi Edirisinghe](http://malithiedirisinghe.blogspot.com)
+* [Malshan Ranawella](https://medium.com/@malshanranawella)
 * [Mevan Karunanayake](https://medium.com/@mevan.karu)
 * [Mifraz Murthaja](https://mifrazmurthaja.medium.com)
 * [Minoli de Silva](https://minoli-desilva.medium.com)
