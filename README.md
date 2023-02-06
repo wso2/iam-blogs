@@ -52,6 +52,7 @@
 * [Kushan Bhareti](https://medium.com/@kushanbhareti)
 * [Kayathiri Mahendrakumaran](https://kayathiri.medium.com/)
 * [Lakshan Banneheke](https://medium.com/@lakshan-banneheke)
+* [Lakshika Athapaththu](https://medium.com/@lakshiathapaththu998)
 * [Lashini Jayasekara](https://medium.com/@lashinisharikaj)
 * [Leonardo Lopez](https://medium.com/@leonardor_2734)
 * [Lochana Edirisinghe](https://edirisinghelochana5.medium.com/)
