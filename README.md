@@ -71,6 +71,7 @@
 * [Omindu Rathnaweera](https://medium.com/@omindu)
 * [Pabasara Mahindapala](https://medium.com/@pabasaramahindapala)
 * [Pamoda Wimalasiri](https://medium.com/@pamodaaw)
+* [Pasan Jayawardene](https://medium.com/@pasandevin)
 * [Piraveena Paralogarajah](https://medium.com/@piraveenaparalogarajah)
 * [Prabath Siriwardena](http://blog.facilelogin.com)
 * [Pulasthi Mahawithana](https://medium.com/@pulasthi7)
