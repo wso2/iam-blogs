@@ -9,6 +9,7 @@
 * [Avarjana Panditha](https://avarjana.medium.com/)
 * [Ayesha Dissanayaka](https://medium.com/@ayshsandu)
 * [BF Ilma](https://medium.com/@bfilma)
+* [Ashfaq Ashar](https://dev.to/ashfaq1998data)
 * [Bojitha Piyathilake](https://medium.com/@bojithapiyathilake)
 * [Brion Silva](https://medium.com/@brionmario)
 * [Buddhima Udaranga](https://medium.com/@buddhimau)
