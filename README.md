@@ -1,7 +1,7 @@
 # WSO2 Identity Server - Bloggers
 
 * [Abilashini Thiyagarajah](https://medium.com/@abilashini)
-* Achini Jayasena
+* [Achini Jayasena](https://medium.com/@aaujayasena)
 * [Achintha Isuru](https://achinthaisuru444.medium.com/)
 * [Anjana Samindra Perera](https://anjanasamindraperera.medium.com)
 * [Anuradha Karunarathna](https://anuradha-15.medium.com/)
@@ -125,3 +125,5 @@
 * [Yoshani Ranaweera](https://yoshani-malinka.medium.com/)
 * [Amanda Ariyaratne](https://amanda-ariyaratne.medium.com/)
 * [Yogya Gamage](https://medium.com/@yogya.gamage)
+* [Ziyam Santhosh](https://medium.com/@santhoshziyam)
+* [Aseka Warnakulasooriya](https://medium.com/@asekatest1)
