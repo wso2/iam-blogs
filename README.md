@@ -112,6 +112,7 @@
 * [Thamindu Jayawickrama](https://thamindudilshan.medium.com/)
 * Thanuja Jayasinghe
 * [Tharindu Bandara](https://medium.com/identity-unlocked)
+* [Theviyanthan Krishnamohan](https://www.thearmchaircritic.org)
 * [Thenusan Santhirakumar](https://medium.com/@sthenusan)
 * [Thumilan Mikunthan](https://medium.com/@thumilan)
 * Thushanthan Amalanathan
