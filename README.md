@@ -83,6 +83,7 @@
 * [Prabath Siriwardena](http://blog.facilelogin.com)
 * [Pulasthi Mahawithana](https://medium.com/@pulasthi7)
 * [Pushpalanka Jayawardhana](https://medium.com/@Pushpalanka)
+* [Rajitha Wanshika](https://medium.com/@wanshikawar.99)
 * [Rashmini Naranpanawa](https://rashmini.medium.com/)
 * [Ruchira Sahabandu](https://medium.com/@ruchira.sahabandu)
 * [Ruwan Abeykoon](https://medium.com/@ruwanta)
