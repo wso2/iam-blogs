@@ -68,6 +68,7 @@
 * [Mevan Karunanayake](https://medium.com/@mevan.karu)
 * [Mifraz Murthaja](https://mifrazmurthaja.medium.com)
 * [Minoli de Silva](https://minoli-desilva.medium.com)
+* [Movin Silva](https://medium.com/@movin_silva)
 * [Nilasini Thirunavukkarasu](https://medium.com/@nilasini)
 * [Niluka Sripali](https://medium.com/@niluka)
 * [Nipun Thennakoon](https://medium.com/@nipunsampath)
