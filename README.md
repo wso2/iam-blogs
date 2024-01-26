@@ -45,6 +45,7 @@
 * [Ishika Godage](https://medium.com/@ishikagodage)
 * [Isura Karunaratne](https://medium.com/@isurakarunaratne) ~ Blogger of the Month (May 2019)
 * Isuranga Perera
+* [Isuru Gunarathne](https://medium.com/@isuru623)
 * [Janak Amarasena](https://medium.com/@janakda)
 * [Janith Ganepola](https://janithgan.medium.com)
 * [Jayanga Kaushalya](https://medium.com/@jayanga)
