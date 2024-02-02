@@ -3,6 +3,7 @@
 * [Abilashini Thiyagarajah](https://medium.com/@abilashini)
 * [Achini Jayasena](https://medium.com/@aaujayasena)
 * [Achintha Isuru](https://achinthaisuru444.medium.com/)
+* [Afra Hussaindeen](https://medium.com/@mhfafra)
 * [Anjana Samindra Perera](https://anjanasamindraperera.medium.com)
 * [Anuradha Karunarathna](https://anuradha-15.medium.com/)
 * [Amanda Ariyaratne](https://amanda-ariyaratne.medium.com/)
