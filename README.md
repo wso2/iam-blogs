@@ -50,6 +50,7 @@
 * [Isuru Gunarathne](https://medium.com/@isuru623)
 * [Janak Amarasena](https://medium.com/@janakda)
 * [Janith Ganepola](https://janithgan.medium.com)
+* [Jathushan Raveendra](https://medium.com/@jathu292)
 * [Jayanga Kaushalya](https://medium.com/@jayanga)
 * [Jayashakthi Perera](https://medium.com/@jayashakthiperera)
 * [Jerad Rutnam](https://medium.com/@jeradrutnam)
