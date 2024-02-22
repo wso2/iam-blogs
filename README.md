@@ -19,6 +19,7 @@
 * [Chamath Samarawickrama](https://medium.com/@htamahc)
 * [Chanaka Fernando](https://medium.com/@chanakaudaya)
 * [Chanika Ruchini](https://chanikaruchini-16.medium.com)
+* [Charindu Thisara](https://medium.com/@imcthisara)
 * [Charith Rajitha](https://medium.com/@rajithacharith)
 * [Chathura Gunasekara](https://medium.com/@chathuragunasekera)
 * [Chathuranga Priyadarshana](https://chathurangapriyadarshana.medium.com/)
