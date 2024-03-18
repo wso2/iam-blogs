@@ -109,6 +109,7 @@
 * [Shan Jayathilaka](https://medium.com/@shanchathusanda)
 * [Shazni Nazeer](https://medium.com/@mshazninazeer)
 * [Shalitha Pathirange](https://medium.com/@Shaaali)
+* [Shenali Jayakody](https://medium.com/@shenalijayakody)
 * [Sherene Mahanama](https://medium.com/@Sher_M/)
 * [Sivanoly Nesaratnam](https://nsivanoly.medium.com/)
 * [Sominda Gamage](https://medium.com/@somindagamage)
