@@ -8,6 +8,7 @@
 * [Anuradha Karunarathna](https://anuradha-15.medium.com/)
 * [Amanda Ariyaratne](https://amanda-ariyaratne.medium.com/)
 * [Aseka Warnakulasooriya](https://medium.com/@asekatest1)
+* [Asha Sulaiman](https://medium.com/@ash15.sulaiman)
 * [Ashen Weerathunga](https://ashenweerathunga.medium.com)
 * [Avarjana Panditha](https://avarjana.medium.com/)
 * [Ayesha Dissanayaka](https://medium.com/@ayshsandu)
