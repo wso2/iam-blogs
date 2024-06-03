@@ -38,6 +38,7 @@
 * [Gomathy Kumarakuruparan](https://medium.com/@gomathy)
 * [Gousalya Ramachandran](https://medium.com/@goushiram)
 * [Hasanthi Purnima](https://medium.com/@hasanthipurnimadissanayake)
+* [Hasini Samarathunga](https://medium.com/@hasinisama)
 * [Hasini Witharana](https://medium.com/@hasiniwitharana)
 * [Himashi Rathnayake](https://himashirathnayake.medium.com/)
 * [Imalsha Gunasekara](https://imalsha-sg.medium.com/)
