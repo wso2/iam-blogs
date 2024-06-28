@@ -72,6 +72,7 @@
 * [Maduranga Siriwardana](https://medium.com/@maduranga.siriwardena)
 * [Malithi Edirisinghe](http://malithiedirisinghe.blogspot.com)
 * [Malshan Ranawella](https://medium.com/@malshanranawella)
+* [Melani Silva](https://medium.com/@melanisilva)
 * [Mevan Karunanayake](https://medium.com/@mevan.karu)
 * [Mifraz Murthaja](https://mifrazmurthaja.medium.com)
 * [Minoli de Silva](https://minoli-desilva.medium.com)
