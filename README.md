@@ -70,6 +70,7 @@
 * [Lochana Edirisinghe](https://edirisinghelochana5.medium.com/)
 * [M Ashkar Haris](https://mashkarharis.medium.com/)
 * [Maduranga Siriwardana](https://medium.com/@maduranga.siriwardena)
+* [Malith Dilshan](https://medium.com/@malith_dilshan)
 * [Malithi Edirisinghe](http://malithiedirisinghe.blogspot.com)
 * [Malshan Ranawella](https://medium.com/@malshanranawella)
 * [Melani Silva](https://medium.com/@melanisilva)
