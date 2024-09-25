@@ -61,6 +61,7 @@
 * [Johann Nallathamby](https://medium.com/@johann-nallathamby)
 * [Kanapriya Kuleswararajan](http://kkanapriya.blogspot.com/)
 * [Kavindu Dodanduwa](https://medium.com/@kavindudodanduwa)
+* [Kumuditha Dodanwela (KD)](https://medium.com/@kumudithag40)
 * [Kushan Bhareti](https://medium.com/@kushanbhareti)
 * [Kayathiri Mahendrakumaran](https://kayathiri.medium.com/)
 * [Lakshan Banneheke](https://medium.com/@lakshan-banneheke)
