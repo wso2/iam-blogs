@@ -87,6 +87,7 @@
 * [Nimasha Bandara](https://medium.com/@NimashaBandara)
 * [Omal Wijegunawardana](https://medium.com/@omalwijegunawardana)
 * [Omindu Rathnaweera](https://medium.com/@omindu)
+* [Osara Bandara](https://medium.com/@osara922)
 * [Pabasara Mahindapala](https://medium.com/@pabasaramahindapala)
 * [Pamoda Wimalasiri](https://medium.com/@pamodaaw)
 * [Pasan Jayawardene](https://medium.com/@pasandevin)
