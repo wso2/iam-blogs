@@ -91,6 +91,7 @@
 * [Pabasara Mahindapala](https://medium.com/@pabasaramahindapala)
 * [Pamoda Wimalasiri](https://medium.com/@pamodaaw)
 * [Pasan Jayawardene](https://medium.com/@pasandevin)
+* [Pasindu Abeysinghe](https://medium.com/@pasinduyeshann)
 * [Pavindu Lakshan](https://pavindulakshan.com/)
 * [Piraveena Paralogarajah](https://medium.com/@piraveenaparalogarajah)
 * [Prabath Siriwardena](http://blog.facilelogin.com)
