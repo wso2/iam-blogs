@@ -68,6 +68,7 @@
 * [Lakshika Athapaththu](https://medium.com/@lakshiathapaththu998)
 * [Lashini Jayasekara](https://medium.com/@lashinisharikaj)
 * [Leonardo Lopez](https://medium.com/@leonardor_2734)
+* [Linuka Ratnayake](https://medium.com/@linukaratnayake)
 * [Lochana Edirisinghe](https://edirisinghelochana5.medium.com/)
 * [M Ashkar Haris](https://mashkarharis.medium.com/)
 * [Maduranga Siriwardana](https://medium.com/@maduranga.siriwardena)
