@@ -133,8 +133,8 @@
 * [Theviyanthan Krishnamohan](https://www.thearmchaircritic.org)
 * [Thenusan Santhirakumar](https://medium.com/@sthenusan)
 * [Thilina Senarath](https://medium.com/@shashimalsenarath.17)
-* [Thivaharan Kalyanasundaram](https://medium.com/@kalyanasundaramthivaharan)
 * [Thineth Gamage](https://medium.com/@ggthineth)
+* [Thivaharan Kalyanasundaram](https://medium.com/@kalyanasundaramthivaharan)
 * [Thumilan Mikunthan](https://medium.com/@thumilan)
 * Thushanthan Amalanathan
 * [Tiffany_Silva](https://medium.com/@tiffany.silva)
