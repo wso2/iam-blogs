@@ -131,10 +131,10 @@
 * Thanuja Jayasinghe
 * [Tharindu Bandara](https://medium.com/identity-unlocked)
 * [Theviyanthan Krishnamohan](https://www.thearmchaircritic.org)
-* [Thineth Gamage](https://medium.com/@ggthineth)
 * [Thenusan Santhirakumar](https://medium.com/@sthenusan)
 * [Thilina Senarath](https://medium.com/@shashimalsenarath.17)
 * [Thivaharan Kalyanasundaram](https://medium.com/@kalyanasundaramthivaharan)
+* [Thineth Gamage](https://medium.com/@ggthineth)
 * [Thumilan Mikunthan](https://medium.com/@thumilan)
 * Thushanthan Amalanathan
 * [Tiffany_Silva](https://medium.com/@tiffany.silva)
