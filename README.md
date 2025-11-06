@@ -14,6 +14,7 @@
 * [Ayesha Dissanayaka](https://medium.com/@ayshsandu)
 * [BF Ilma](https://medium.com/@bfilma)
 * [Ashfaq Ashar](https://dev.to/ashfaq1998data)
+* [Bimsara Bodaragama](https://bodaragamadb-office.medium.com/)
 * [Bojitha Piyathilake](https://medium.com/@bojithapiyathilake)
 * [Brion Silva](https://medium.com/@brionmario)
 * [Buddhima Udaranga](https://medium.com/@buddhimau)
