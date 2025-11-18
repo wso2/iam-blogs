@@ -15,6 +15,7 @@
 * [Ayesha Dissanayaka](https://medium.com/@ayshsandu)
 * [BF Ilma](https://medium.com/@bfilma)
 * [Bimsara Bodaragama](https://bodaragamadb-office.medium.com/)
+* [Binula Dimantha](www.linkedin.com/in/binula-dimantha-t-7b2419243)
 * [Bojitha Piyathilake](https://medium.com/@bojithapiyathilake)
 * [Brion Silva](https://medium.com/@brionmario)
 * [Buddhima Udaranga](https://medium.com/@buddhimau)
