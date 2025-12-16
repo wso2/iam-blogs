@@ -46,6 +46,7 @@
 * [Himashi Rathnayake](https://himashirathnayake.medium.com/)
 * [Imalsha Gunasekara](https://imalsha-sg.medium.com/)
 * [Inthirakumaaran Tharmakulasingham](https://medium.com/@inthiraj1994) ~ Blogger of the Month (June 2019)
+* [Iran Samarasekara](https://medium.com/@iransamarasekara)
 * [Isanka Rajapaksha](https://is-rajapaksha.medium.com)
 * [Ishara Ilangasinghe](https://medium.com/@isharailanga)
 * [Ishara Karunarathna](https://medium.com/@isharaaruna) ~ Blogger of the Month (Sept 2019)
