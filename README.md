@@ -109,6 +109,7 @@
 * [Rajitha Wanshika](https://medium.com/@wanshikawar.99)
 * [Ramindu De Silva](https://medium.com/@rami-desilva)
 * [Rashmini Naranpanawa](https://rashmini.medium.com/)
+* [Ravien Dalpatadu](https://medium.com/@dalpataduravien)
 * [Ravindran Dharshan](https://ravindrandharshan.medium.com/)
 * [Ruchira Sahabandu](https://medium.com/@ruchira.sahabandu)
 * [Ruwan Abeykoon](https://medium.com/@ruwanta)
